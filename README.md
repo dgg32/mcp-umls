@@ -3,7 +3,7 @@
 
   
 
-This repository contains code and data for my article "[MCP DrugBot: Leaner And Smarter](https://dgg32.medium.com/duckdb-as-a-drugdb-a-free-and-simple-multi-model-drug-and-trial-database-83c222d1e9dd)".
+This repository contains code and data for my article "[MCP DrugBot: Leaner And Smarter](https://dgg32.medium.com/mcp-drugbot-leaner-and-smarter-841e9b92272a)".
 
 
 
